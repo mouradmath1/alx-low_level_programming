@@ -1,5 +1,5 @@
 /**
- * main - Entry point
+ * main - Entry
  *
  * Return: 1
  */
